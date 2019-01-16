@@ -21,13 +21,10 @@ Todo-list의 CRUD 기능을 작성한다.
 - Repository에 @RepositoryRestResource 어노테이션을 사용해서 따로 Rest의 controller를 따로 작성하지 않아도 간단한 Service를 제공해준다.
 - FilterRegistrationBean을 작성해줬다. 다른 주소의 접근을 막아준다. Vue.js로의 데이터 접근만 허용한다.
 
-### Vue.JS 클라이트
+#### Client 제작 내용
 - axios를 사용해서 백앤드와 어떻게 통신이 되는지를 익힌다. 
 - webpack을 이용해서 build시키는 법을 익힌다. (<a href ="https://github.com/sstoneju/Boot-JPA-Vue">볼링 평균점수 사이트</a> 미완성)
 - Vue-router기능을 사용해서 프론트에서의 페이지 전환을 한다. (<a href ="https://github.com/sstoneju/Boot-JPA-Vue">볼링 평균점수 사이트</a> 미완성)
 - Vuex를 이용해서 상태관리를 사용한다. (<a href ="https://github.com/sstoneju/Boot-JPA-Vue">볼링 평균점수 사이트</a> 예정)
-
-#### Client 제작 내용
-- axios를 사용해서 list의 crud를 구현한다.
 
 
